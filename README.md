@@ -17,6 +17,15 @@ https://github.com/user-attachments/assets/5925b953-0729-4d1b-aad1-6b19d2e9ee22
 * **[MIT App Inventor]:** Ambiente de desenvolvimento visual para criação de aplicativos Android via programação em blocos.
 * **Modelagem de Algoritmos:** Criação de fluxogramas e pseudocódigo para planejamento da lógica de software.
 
+## 🧩 Lógica de Programação (Blocos)
+
+
+<img width="429" height="280" alt="blocks" src="https://github.com/user-attachments/assets/6fca4c03-6a76-41fd-9372-36fdf869aff6" />
+<img width="910" height="522" alt="blocks (1)" src="https://github.com/user-attachments/assets/eaeb2036-9cda-4f05-8be1-66eaa5afbd07" />
+<img width="893" height="499" alt="blocks (2)" src="https://github.com/user-attachments/assets/aa63aa23-cad9-4404-b3d5-bbb47ebfb894" />
+<img width="1023" height="525" alt="blocks (3)" src="https://github.com/user-attachments/assets/08aadf02-a671-4557-b81d-44b78817bd77" />
+
+
 ---
 
 ## 🧠 Conteúdos e Conceitos Aprendidos
