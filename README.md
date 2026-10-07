@@ -57,3 +57,17 @@ https://github.com/user-attachments/assets/5925b953-0729-4d1b-aad1-6b19d2e9ee22
 
 * `ConversorFacil (1).aia`: Arquivo-fonte para abrir e editar no MIT App Inventor.
 * `Document 3 (1).pdf`: Documentação com o planejamento completo, pseudocódigo e fluxogramas.
+
+
+
+## 🚀 Como Executar e Testar o Aplicativo
+
+Caso queira abrir o projeto e testá-lo em tempo real no seu dispositivo móvel:
+
+1. **Importar no computador:**
+   * Acesse o [MIT App Inventor](https://ai2.appinventor.mit.edu/).
+   * Clique em `Projects` ➔ `Import project (.aia) from my computer` e selecione o arquivo `ConversorFacil.aia`.
+2. **Executar no smartphone:**
+   * Baixe o aplicativo gratuito **MIT AI2 Companion** na Google Play Store (Android) ou App Store (iOS).
+   * No App Inventor no computador, clique em `Conectar` ➔ `AI Companion`.
+   * Abra o app no celular, escaneie o QR Code gerado na tela e teste o aplicativo em tempo real.
